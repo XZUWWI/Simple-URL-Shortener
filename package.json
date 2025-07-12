@@ -13,8 +13,8 @@
     "express",
     "mongodb"
   ],
-  "author": "",
-  "license": "MIT",
+  "author": "zrxxz",
+  "license": "SEE LICENSE IN LICENSE.txt",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
